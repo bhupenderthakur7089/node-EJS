@@ -1,0 +1,16 @@
+[
+    {
+        "id": "15484",
+        "title": "A Book",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+        "description": "This is an awesome book!",
+        "price": "19"
+    },
+    {
+        "id": "515515",
+        "title": "Pencil",
+        "imageUrl": "https://as1.ftcdn.net/v2/jpg/01/75/39/76/1000_F_175397693_Uk9AQOBU8ZsKmeXjhA01cKtAmjVN2PmN.jpg",
+        "description": "very strong and clear marking",
+        "price": "10"
+    }
+]

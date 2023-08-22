@@ -12,5 +12,19 @@
         "imageUrl": "https://as1.ftcdn.net/v2/jpg/01/75/39/76/1000_F_175397693_Uk9AQOBU8ZsKmeXjhA01cKtAmjVN2PmN.jpg",
         "description": "very strong and clear marking",
         "price": "10"
+    },
+    {
+        "title": "smartPhone",
+        "imageUrl": "https://as1.ftcdn.net/v2/jpg/05/69/83/56/1000_F_569835683_otallXrTgCXBD4z2oNygx1xedNBofugE.jpg",
+        "description": " Samsung Galaxy S23 Plus with blank screen isolated on white background.",
+        "price": "100",
+        "id": "0.7441514145202826"
+    },
+    {
+        "title": "controller board",
+        "imageUrl": "https://as1.ftcdn.net/v2/jpg/02/21/79/36/1000_F_221793604_IPNLcsIjRPOEoPBUgY9waLA5J15gIpCR.jpg",
+        "description": "Electronic printed Rasberry Pi circuit board with chips and other components",
+        "price": "75",
+        "id": "0.22729466989545122"
     }
 ]

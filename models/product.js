@@ -23,7 +23,7 @@ module.exports = class Product {
     this.imageUrl = imageUrl;
     this.description = description;
     this.price = price;
-    this.id = Math.random();
+    this.id = JSON.stringify(Math.random());
   }
 
   save() {
